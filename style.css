@@ -22,7 +22,7 @@
   
   .topnav a:hover {
     background-color: #ddd;
-    color: black;
+    color: white;
   }
   
   .topnav a.active {
@@ -72,41 +72,41 @@
     margin-top: 2%;
     padding: 2%;
     text-align: center;
-    background-image: url('images/juletræ.jpeg');
+    background-image: url('images/SO.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     min-height: 100vh;
     color: rgb(255, 255, 255);
     text-shadow:
-    -1px -1px 1px #000,
+    -1px -1px 1px rgb(255, 255, 255),
     1px -1px 2px #000,
     -1px 1px 1px #000,
     1px 1px 1px #000; 
   }
 
   #informatik {
-    background-image:  url("images/pexels-jaymantri-5412.jpeg");
+    background-image:  url("images/informatik.jpg");
   }
 
   #matematik {
-    background-image:  url("images/satin.jpeg");
+    background-image:  url("images/Matematik.jpeg");
   }
 
   #engelsk {
-    background-image:  url("images/jullllllllll.jpeg");
+    background-image:  url("images/Engelsk.jpeg");
   }
 
   #so {
-    background-image:  url("images/Rustik-beige-cement-mur-baggrund-af-konkrete-tekstur_128861_4.jpeg");
+    background-image:  url("images/SO.jpeg");
   }
 
   #dotdotdot {
-    background-image:  url("images/background-texture-layer-design-wall-concrete.jpeg");
+    background-image:  url("images/Dotdotdot.jpeg");
   }
 
   #dansk {
-    background-image:  url("images/Jule-baggrund.jpeg");
+    background-image:  url("images/Dansk.jpeg");
   }
 
   .content .element {
@@ -150,7 +150,7 @@
   /* Accordion CSS */
   .accordion {
     background-color: transparent;
-    color: rgb(253, 253, 253);
+    color: rgb(10, 10, 10);
     text-shadow:
     -1px -1px 1px #000,
     1px -1px 1px #000,
